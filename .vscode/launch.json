@@ -6,10 +6,10 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://bcserver",
+            "server": "http://bcserver", // LocalHost
             "serverInstance": "BC",
             "authentication": "UserPassword",
-            "startupObjectId": 22,
+            "startupObjectId": 50111,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
